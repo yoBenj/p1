@@ -1,0 +1,12 @@
+GITHUB URL,Bug Priority,Developer Name,Branch,Description,BugId
+https://github.com/ybenj/p1,High,John Doe,main,"Fix login issue",101
+https://github.com/ybenj/p1,Medium,Jane Smith,dev,"Update UI color",102
+https://github.com/ybenj/p1,Low,Bob Brown,feature-1,"Add new feature",103
+https://github.com/ybenj/p1,Critical,Alice Green,hotfix,"Critical security fix",104
+https://github.com/ybenj/p1,High,Charlie Black,main,"Refactor codebase",105
+https://github.com/ybenj/p1,Medium,Dave White,dev,"Improve performance",106
+https://github.com/ybenj/p1,Low,Eva Blue,feature-2,"Add documentation",107
+https://github.com/ybenj/p1,Critical,Frank Yellow,hotfix,"Fix major bug",108
+https://github.com/ybenj/p1,High,Grace Pink,main,"Update dependencies",109
+https://github.com/ybenj/p1,Medium,Hank Red,dev,"Code optimization",110
+https://github.com/ybenj/p1,Low,Ivy Violet,feature-3,"UI improvements",111
